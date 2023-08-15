@@ -22,6 +22,8 @@ This project aims to securely manage, streamline, and perform analysis on the st
   
 - AWS Athena: Athena emerged as a key player in the interactive querying process. Its seamless integration with S3 allowed me to perform queries on data stored directly in S3, eliminating the need for data loading and enhancing query agility.
 
+<img width="984" alt="Screenshot 2023-08-15 at 5 52 15 PM" src="https://github.com/alyona-vishnoi/aws-youtube-de-analytics/assets/88257366/c8275520-8d00-4d73-ae3e-d79a8e408680">
+
 ## Dataset Source
 
 The project utilizes the YouTube Trending Videos Dataset available on Kaggle. This dataset contains daily statistics in CSV files for popular YouTube videos across various regions. With up to 200 trending videos published daily, the dataset includes video titles, channel details, publication times, tags, views, likes, dislikes, descriptions, comment counts, and region-specific category IDs.
